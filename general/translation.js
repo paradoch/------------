@@ -8,7 +8,7 @@ function loadTranslations() {
     })
     .catch(error => console.error('Error loading translations:', error));
 }
-
+ 
 function toggleLanguage() {
   var currentLanguage = document.documentElement.lang || 'en';
   localStorage.setItem('language','en');
