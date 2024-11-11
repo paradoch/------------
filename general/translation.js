@@ -24,7 +24,7 @@ function toggleLanguage() {
     localStorage.setItem('language','en');
   }
 }
-
+ 
 function applyTranslations(lang) {
   var translation = translations[lang];
 
