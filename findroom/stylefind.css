@@ -24,7 +24,7 @@ header{
     width: 100%;
 }
 .header-nav{
-    display: flex;
+    display: flex ;
     justify-content: center;
     align-items: center;
     gap: 60px;
