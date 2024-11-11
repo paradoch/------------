@@ -89,7 +89,7 @@ main{
     gap: 20px;
     border: 2px solid #1B75BB;
     padding: 10px;
-}
+} 
 .catalog-card__poster-wrapper{
     content: url(/image/5bd707cb841ff.jpg);
     width: 30%;
