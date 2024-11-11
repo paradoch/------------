@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
     openModalBtn.onclick = function() {
         modal.style.display = "block";
     }
-
+ 
     closeModalBtn.onclick = function() {
         modal.style.display = "none";
     }
