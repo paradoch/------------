@@ -367,7 +367,7 @@ button:hover {
     footer{
         flex-wrap: wrap;
     }
-}
+} 
 @media (max-width: 768px) {
     .catalog-card{
         flex-wrap: wrap;
