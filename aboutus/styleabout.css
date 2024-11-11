@@ -37,9 +37,11 @@ header{
     font-weight: normal; 
     font-style: normal; 
 }
+
 .header-nav a:nth-child(2) {
     color: #1B75BB;
 }
+
 .block-book{
     color: #fff;
     background-color: #1B75BB;
