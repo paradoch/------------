@@ -73,7 +73,7 @@ main{
     margin-bottom: 120px;
     gap: 100px;
     width: 100%; 
-} 
+}  
 .catalog-list{
     display: flex;
     justify-content: center;
