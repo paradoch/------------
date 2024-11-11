@@ -9,7 +9,7 @@ body{
 body p, h1, h2, b{
     margin: 0;
 }
-header{
+header{ 
     background-image: url("/image/backheader.png");
     width: 100%;
     background-position: center;
