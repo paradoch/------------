@@ -10,7 +10,7 @@ body p, h1, h2, b{
     margin: 0;
 }
 header{
-    background-image: url("/image/backheader.png");
+    background-image: url("../image/backheader.png");
     width: 100%;
     background-position: center;
     background-size: cover;
@@ -83,13 +83,13 @@ main{
     text-align: center;
 }
 .img-block-section5-1{
-    content: url(/image/pervi.png);
+    content: url("../image/pervi.png");
 }
 .img-block-section5-2{
-    content: url(/image/vtoroi.png);
+    content: url("../image/vtoroi.png");
 }
 .img-block-section5-3{
-    content: url(/image/treti.png);
+    content: url("../image/treti.png");
 }
 .reviews-block{
     display: flex;
