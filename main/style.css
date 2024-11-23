@@ -121,7 +121,7 @@ text-transform: uppercase;
     width: 100%;
 }
 .img-section2{
-    content: url(../image/section2.png);
+    content: url("../image/section2.png");
 }
 .text-section2{
     display: flex;
@@ -174,19 +174,19 @@ text-transform: uppercase;
     width: 45%;
 }
 .img-block-section3{
-    content: url(../image/click.png);
+    content: url("../image/click.png");
     width: 20%;
 }
 .img-block-section3-1{
-    content: url(../image/group.png);
+    content: url("../image/group.png");
     width: 20%;
 }
 .img-block-section3-2{
-    content: url(../image/coub.png);
+    content: url("../image/coub.png");
     width: 20%;
 }
 .img-block-section3-3{
-    content: url(../image/box.png);
+    content: url("../image/box.png");
     width: 20%;
 }
 
@@ -207,7 +207,7 @@ text-transform: uppercase;
 }
 
 .cost-first-section4-1{
-    background-image: url(../image/img1section4.png);
+    background-image: url("../image/img1section4.png");
     background-position: center;
     background-size: cover;
     width: 50%;
