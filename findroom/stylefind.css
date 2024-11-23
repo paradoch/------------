@@ -10,7 +10,7 @@ body p, h1, h2, b{
     margin: 0;
 }
 header{ 
-    background-image: url("/image/backheader.png");
+    background-image: url("../image/backheader.png");
     width: 100%;
     background-position: center;
     background-size: cover;
@@ -91,39 +91,39 @@ main{
     padding: 10px;
 } 
 .catalog-card__poster-wrapper{
-    content: url(/image/5bd707cb841ff.jpg);
+    content: url("../image/5bd707cb841ff.jpg");
     width: 30%;
 } 
 .catalog-card__poster-wrapper1{
-    content: url(/image/6228afc29506e.jpg);
+    content: url("../image/6228afc29506e.jpg");
     width: 30%;
 }
 .catalog-card__poster-wrapper2{
-    content: url(/image/62553b53e697d.jpg);
+    content: url("../image/62553b53e697d.jpg");
     width: 30%;
 } 
 .catalog-card__poster-wrapper3{
-    content: url(/image/6228accbdc836.jpg);
+    content: url("../image/6228accbdc836.jpg");
     width: 30%;
 }
 .catalog-card__poster-wrapper4{
-    content: url(/image/6228b38140948.jpg);
+    content: url("../image/6228b38140948.jpg");
     width: 30%;
 }
 .catalog-card__poster-wrapper5{
-    content: url(/image/625535079bcad.jpg);
+    content: url("../image/625535079bcad.jpg");
     width: 30%;
 }
 .catalog-card__poster-wrapper6{
-    content: url(/image/625536de58c38.jpg);
+    content: url("../image/625536de58c38.jpg");
     width: 30%;
 }
 .catalog-card__poster-wrapper7{
-    content: url(/image/625535f1bef8f.jpg);
+    content: url("../image/625535f1bef8f.jpg");
     width: 30%;
 }
 .catalog-card__poster-wrapper8{
-    content: url(/image/5bdc4130e2e73.jpg);
+    content: url("../image/5bdc4130e2e73.jpg");
     width: 30%;
 }
 .catalog-card__content{
