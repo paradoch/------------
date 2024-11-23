@@ -216,7 +216,7 @@ text-transform: uppercase;
     border-radius: 10px;
 }
 .cost-first-section4-2{
-    background-image: url(../image/img2section4.png);
+    background-image: url("../image/img2section4.png");
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -225,7 +225,7 @@ text-transform: uppercase;
     border-radius: 10px;
 }
 .cost-first-section4-3{
-    background-image: url(../image/img3section4.png);
+    background-image: url("../image/img3section4.png");
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -234,7 +234,7 @@ text-transform: uppercase;
     border-radius: 10px;
 }
 .cost-first-section4-4{
-    background-image: url(../image/img4section4.png);
+    background-image: url("../image/img4section4.png");
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -243,7 +243,7 @@ text-transform: uppercase;
     border-radius: 10px;
 }
 .cost-first-section4-5{
-    background-image: url(../image/img5section4.png);
+    background-image: url("../image/img5section4.png");
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -333,13 +333,13 @@ text-transform: uppercase;
     gap: 30px;
 }
 .img-block-section5-1{
-    content: url(../image/pervi.png);
+    content: url("../image/pervi.png");
 }
 .img-block-section5-2{
-    content: url(../image/vtoroi.png);
+    content: url("../image/vtoroi.png");
 }
 .img-block-section5-3{
-    content: url(../image/treti.png);
+    content: url("../image/treti.png");
 }
 .subscribe-container {
     display: flex;
