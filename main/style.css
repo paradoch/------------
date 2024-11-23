@@ -21,7 +21,7 @@ body p, h1, h2, b{
     margin: 0;
 }
 header{
-    background-image: url("/image/backheader.png");
+    background-image: url("../image/backheader.png");
     width: 100%;
     background-position: center;
     background-size: cover;
@@ -121,7 +121,7 @@ text-transform: uppercase;
     width: 100%;
 }
 .img-section2{
-    content: url(/image/section2.png);
+    content: url(../image/section2.png);
 }
 .text-section2{
     display: flex;
@@ -174,19 +174,19 @@ text-transform: uppercase;
     width: 45%;
 }
 .img-block-section3{
-    content: url(/image/click.png);
+    content: url(../image/click.png);
     width: 20%;
 }
 .img-block-section3-1{
-    content: url(/image/group.png);
+    content: url(../image/group.png);
     width: 20%;
 }
 .img-block-section3-2{
-    content: url(/image/coub.png);
+    content: url(../image/coub.png);
     width: 20%;
 }
 .img-block-section3-3{
-    content: url(/image/box.png);
+    content: url(../image/box.png);
     width: 20%;
 }
 
@@ -207,7 +207,7 @@ text-transform: uppercase;
 }
 
 .cost-first-section4-1{
-    background-image: url(/image/img1section4.png);
+    background-image: url(../image/img1section4.png);
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -216,7 +216,7 @@ text-transform: uppercase;
     border-radius: 10px;
 }
 .cost-first-section4-2{
-    background-image: url(/image/img2section4.png);
+    background-image: url(../image/img2section4.png);
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -225,7 +225,7 @@ text-transform: uppercase;
     border-radius: 10px;
 }
 .cost-first-section4-3{
-    background-image: url(/image/img3section4.png);
+    background-image: url(../image/img3section4.png);
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -234,7 +234,7 @@ text-transform: uppercase;
     border-radius: 10px;
 }
 .cost-first-section4-4{
-    background-image: url(/image/img4section4.png);
+    background-image: url(../image/img4section4.png);
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -243,7 +243,7 @@ text-transform: uppercase;
     border-radius: 10px;
 }
 .cost-first-section4-5{
-    background-image: url(/image/img5section4.png);
+    background-image: url(../image/img5section4.png);
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -333,13 +333,13 @@ text-transform: uppercase;
     gap: 30px;
 }
 .img-block-section5-1{
-    content: url(/image/pervi.png);
+    content: url(../image/pervi.png);
 }
 .img-block-section5-2{
-    content: url(/image/vtoroi.png);
+    content: url(../image/vtoroi.png);
 }
 .img-block-section5-3{
-    content: url(/image/treti.png);
+    content: url(../image/treti.png);
 }
 .subscribe-container {
     display: flex;
