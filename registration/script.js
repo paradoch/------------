@@ -167,7 +167,7 @@ if (loginForm) {
           messageDiv.textContent = 'Login successful!';
           sessionStorage.setItem('loggedInUser', JSON.stringify(user));
           displayContentBasedOnRole();
-          window.location.href = '../main/mainpag.html';
+          window.location.href = '../main/index.html';
       } else {
           messageDiv.textContent = 'Invalid email or password.';
       }
