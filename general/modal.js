@@ -20,10 +20,10 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     loginBtn.onclick = function() {
-        window.location.href = "/registration/aut.html"; 
+        window.location.href = "../registration/aut.html"; 
     }
  
     registerBtn.onclick = function() {
-        window.location.href = "/registration/registr.html"; 
+        window.location.href = "../registration/registr.html"; 
     }
 });
