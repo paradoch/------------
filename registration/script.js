@@ -211,31 +211,31 @@ function displayContentBasedOnRole() {
   }
 }
 /* authorization check */
-
-let gallaryBtn = document.getElementById('gallary');
-let testimonialsBtn = document.getElementById('testimonials');
-
-gallaryBtn.addEventListener('click',function(event){
-  event.preventDefault()
-  if (loggedInUser.role === 'user' || loggedInUser.role === 'admin') {
-    window.location.href ='../findroom/findroom.html'
-  }
-  else {
-    alert("You need to be login/register")  
-  }
-}
-
-testimonialsBtn.addEventListener('click',function(event){
-  event.preventDefault()
-  if (loggedInUser.role === 'user' || loggedInUser.role === 'admin') {
-    window.location.href ='../reviews/reviews.html'
-  }
-  else {
-    alert("You need to be login/register")  
-  }
-}                            
-
-/* authorization check */
+  
+  let gallaryBtn = document.getElementById('gallary');
+  let testimonialsBtn = document.getElementById('testimonials');
+  
+  gallaryBtn.addEventListener('click',function(event){
+    event.preventDefault()
+    if (loggedInUser.role === 'user' || loggedInUser.role === 'admin') {
+      window.location.href ='../findroom/findroom.html'
+    }
+    else {
+      alert("You need to be login/register")  
+    }
+  })
+  
+  testimonialsBtn.addEventListener('click',function(event){
+    event.preventDefault()
+    if (loggedInUser.role === 'user' || loggedInUser.role === 'admin') {
+      window.location.href ='../reviews/reviews.html'
+    }
+    else {
+      alert("You need to be login/register")  
+    }
+  })                            
+  
+  /* authorization check */
 
 if (logoutButton) {
   logoutButton.addEventListener('click', () => {
