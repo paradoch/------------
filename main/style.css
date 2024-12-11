@@ -584,6 +584,59 @@ body.dark .modal-content{
     filter: invert(1);
     color: #000;
 }
+
+/* Animations */ 
+ 
+ 
+.anim1:hover{ 
+    color:#cf753d; 
+    transition: all, 0.3s; 
+    width: 150px; 
+} 
+.anim1{ 
+    transition: all, 0.3s; 
+} 
+.anim2:hover{ 
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px; 
+    color:#F4F3F0; 
+    background-color:#000000; 
+    transition: all, 0.3s; 
+} 
+.anim2{ 
+    transition: all, 0.3s; 
+} 
+.anim3:hover{ 
+    color:#ffffff; 
+  
+    background-color:#000000; 
+    border-color: #000000; 
+     
+} 
+.anim3{ 
+    transition: all, 0.3s; 
+} 
+.anim4:hover{ 
+    margin-left: 30px; 
+    transition: all, 0.5s; 
+} 
+.anim4{ 
+    transition: all, 0.5s; 
+} 
+.anim5:hover{ 
+    color:#f0f0f0; 
+    text-align: center; 
+    padding: 5px; 
+    font-size: 20px; 
+    background-color:#1B75BB; 
+    border: 1px solid #1B75BB; 
+    border-radius: 20px; 
+    transition: all, 0.3s; 
+} 
+.anim5{ 
+    transition: all, 0.3s; 
+} 
+ 
+    /* /Animations */
 @media (max-width: 1400px) {
     .header-nav{
         width: 100%;
